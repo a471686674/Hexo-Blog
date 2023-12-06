@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>硬件不够，软件来凑：谷歌相机（70合1）</title>
+      <link href="/posts/a60b9384049c.html"/>
+      <url>/posts/a60b9384049c.html</url>
+      
+        <content type="html"><![CDATA[<p>谷歌相机强大之处就是拍照算法以及支持各种配置文件，如果你是中低端的手机通过谷歌相机来拍照也可以获得不错的成像效果。</p><p>这个版本整合了各个大佬的相机配置文件，总共有 70 个配置，并且提供了主流的各种机型适配，非常强大。</p><p>下面是教程。</p><h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><p>下载链接：我的网盘：<a href="https://pan.weexy.cn/%E5%85%B6%E4%BB%96/%E8%B0%B7%E6%AD%8C%E7%9B%B8%E6%9C%BA70%E5%90%881/%E8%B0%B7%E6%AD%8C%E7%9B%B8%E6%9C%BA70%E5%90%88%E4%B8%80.rar">谷歌相机70合一| Weexy | Pan</a></p><p>下载后全部解压得到以下文件</p><p><img src="/posts/a60b9384049c/image-20231202114347301.jpg" alt="image-20231202114347301"></p><p>可以看到5个apk文件，选择你手机对应的品牌安装，没有的就选择<strong>卡卡8.4v9.9</strong>这个通用版本安装。之后运行相机看会不会闪退，如果闪退的话就再换个版本安装看。</p><p>接下来把 <strong>8.4configs</strong>、<strong>8.4libs</strong>、<strong>水印配置1103N-2</strong>(如果没有解压的话，自己<strong>解压缩出来</strong>)、<strong>icons</strong> 这个 4 个文件夹移动到手机 <strong>Download\AGC</strong> 目录下载。</p><p><img src="/posts/a60b9384049c/image-20231202115050250.jpg" alt="image-20231202115050250"></p><p>打开谷歌相机，点击<strong>左上角的设置</strong> - <strong>选择配置文件</strong>，这里选择适合你手机型号的配置文件，例如你是联发科的就选择联发科通用，如果闪退的话就选择通用配置防闪退。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 拍摄 </tag>
+            
+            <tag> 谷歌相机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows Copilot 上手体验</title>
+      <link href="/posts/744c9e98df92.html"/>
+      <url>/posts/744c9e98df92.html</url>
+      
+        <content type="html"><![CDATA[<p>前段时间，微软发布了 Windows ，因为那时候要<strong>Insider Preview</strong>版本才能用，所以一直没更新。</p><p>最近，<strong>Win11</strong>的<strong>最新版</strong>已经可以<strong>直接使用</strong>Copilot了，我也是马上就更新了。</p><p><del>不过老样子，要魔法，没有的可以看我之前的文章，分享过两个。</del></p><p><img src="/posts/744c9e98df92/image-20231122210735845.jpg" alt="image-20231122210735845"></p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Windows Copilot 是一种使用自然语言处理技术或大语言模型（如 GPT-4），帮助人们完成复杂或认知任务的应用程序或组件。</p><h2 id="体验感受"><a href="#体验感受" class="headerlink" title="体验感受"></a>体验感受</h2><p><del>（个人感受，不喜勿喷）</del></p><p>Windows Copilot在界面上，和Bing Chat网站基本<strong>没啥区别</strong>，连功能都没啥两样。唯一有些区别，可能就是可以<strong>更改设置</strong>了。</p><p>我尝试了部分功能：</p><ul><li><p>分析Edge打开网页的内容，但Edge之外的就不行了。</p></li><li><p><strong>打开应用</strong></p><p> 试了几个应用，微信、QQ、等可以打开。但有些不知道为什么，不可以。</p><p> 但打开还要<strong>手动点打开</strong>，<strong>麻烦！</strong>还不如手动打开。</p><p> <img src="/posts/744c9e98df92/image-20231122210903166.jpg" alt="image-20231122210903166"></p><p> <img src="/posts/744c9e98df92/image-20231122211644456.jpg" alt="image-20231122211644456"></p></li><li><p><strong>截图</strong></p><p> 就是<strong>拉起系统自带的截图工具</strong>，就是<code>Win+shift+s</code>。</p></li></ul><p><img src="/posts/744c9e98df92/image-20231122211828614.jpg" alt="image-20231122211828614"></p><ul><li><p><strong>查询资料</strong></p><p>这个对于我这种懒人，还是有一点点作用的，但不一定都正确。</p></li></ul><p><img src="/posts/744c9e98df92/image-20231122212428014.jpg" alt="image-20231122212428014"></p><ul><li><p>打开系统设置</p><p>部分系统设置也可以通过Copilot打开，如蓝牙、暗色模式等（但功能有限）。</p><p>但和打开应用一样，要在点一次是。<del>（我都叫你打开了，你还问我是不是，微软你人没事吧）</del></p><p><img src="/posts/744c9e98df92/image-20231122213043821.jpg" alt="image-20231122213043821"></p><p><img src="/posts/744c9e98df92/image-20231122213219650.jpg" alt="image-20231122213219650"></p><p><img src="/posts/744c9e98df92/image-20231122213346490.jpg" alt="image-20231122213346490"></p><p>但是WiFi却不能打开。</p><p><img src="/posts/744c9e98df92/image-20231122213007732.jpg" alt="image-20231122213007732"></p></li><li><p>当然，你也可以设置一个提醒，但好像就是计时器。</p><p><img src="/posts/744c9e98df92/image-20231122214041295.jpg" alt="image-20231122214041295"></p><p>但隔天的就不能了，虽然说是有对话框，但实际上没有。</p><p><img src="/posts/744c9e98df92/image-20231122215109393.jpg" alt="image-20231122215109393"></p></li><li><p>还试了让Copilot写代码，但都是查找网页内容让你自己看。</p></li></ul><p>总的来说Windows Copilot就是把Bing Chat搬到Windows上，并没有真正融入Windows中。</p><p>个人认为，Windows Copilot就是为了打开Bing Chat更方便。</p><h2 id="在Win10中使用"><a href="#在Win10中使用" class="headerlink" title="在Win10中使用"></a>在Win10中使用</h2><p>2023年11月16日，微软在 Windows 10 22H2 Build 19045.3754 （KB5032278）版本更新中，正式宣布：即将推出 Windows 中的 Copilot（预览版）！</p><p>但是，我已经升级Win11了，没尝试，这是b站看到的。</p><p>方法和之前Win11使用方法一样，更新最新版本后，使用ViveTool工具启用。</p><p>具体就不多讲了，百度一大堆。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 体验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>“因为在此系统上禁止运行脚本”解决方法</title>
+      <link href="/posts/61e2084d103f.html"/>
+      <url>/posts/61e2084d103f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>昨天升级了Win11，然后通过cmd运行hexo命令时，遇到如下错误：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">hexo : 无法加载文件 C:\Program Files\nodejs\hexo.ps1，因为在此系统上禁止运行脚本。有关详细信息，请参阅 https:/go.micros</span><br><span class="line">oft.com/fwlink/?LinkID=135170 中的 about_Execution_Policies。</span><br><span class="line">所在位置 行:1 字符: 1</span><br><span class="line">+ hexo</span><br><span class="line">+ ~~~~</span><br><span class="line">    + CategoryInfo          : SecurityError: (:) []，PSSecurityException</span><br><span class="line">    + FullyQualifiedErrorId : UnauthorizedAccess</span><br></pre></td></tr></table></figure><p><img src="/posts/61e2084d103f/image-20231119084401169.jpg" alt="image-20231119084401169"></p><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>在默认情况下，我们是无法执行powershell脚本的， 需要更改执行策略。</p><p>Win10或Win11可以参考一下方法：</p><ol><li><p><code>Win+i</code>打开设置</p></li><li><p>搜索并打开<strong>允许本地 PowerShell 脚本在不签名的情况下运行</strong></p><p><img src="/posts/61e2084d103f/image-20231119084821535.jpg" alt="image-20231119084821535"></p></li><li><p>下拉找到<strong>PowerShell</strong>，并勾选<strong>更改执行策略，以允许本地 PowerShell 脚本在未签名的情况下运行。远程脚本需要签</strong><br><strong>名。</strong></p></li><li><p><img src="/posts/61e2084d103f/image-20231119084944712.jpg" alt="image-20231119084944712"></p><p>然后就可以愉快的使用了</p><p><img src="/posts/61e2084d103f/image-20231119085207626.jpg" alt="image-20231119085207626"></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题错误 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo：修改文章链接格式</title>
+      <link href="/posts/8f6b731249a4.html"/>
+      <url>/posts/8f6b731249a4.html</url>
+      
+        <content type="html"><![CDATA[<p>在Hexo中，文章url的默认格式为<code>年/月/日/标题</code>，</p><p>这样虽然可以很<strong>清楚</strong>的展示了文章的<strong>写作日期</strong>、<strong>子文件夹信息</strong>等，但也会<strong>导致url过长</strong>，也<strong>不利于SEO</strong>。</p><hr><p>我个人不喜欢这种风格，比较理想的是域名后面<strong>直接加文章名</strong>，</p><p>可以修改配置文件 <code>_config.yml</code>来改变文章url格式。</p><p>要注意的是，修改后，原来的链接将无法访问，可能会<strong>降低搜索引擎排名</strong>，改之前请想清楚<del>（新站请忽略）</del>。</p><hr><p>默认的配置为：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span>  </span><br></pre></td></tr></table></figure><p>我为了<strong>整齐、统一</strong>，直接使用<strong>哈希值</strong>：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">permalink:</span> <span class="string">posts/:hash.html</span></span><br></pre></td></tr></table></figure><p><img src="/posts/8f6b731249a4/image-20231112193516872.jpg" alt="image-20231112193516872"></p><p>当然，你也可以自定义其他格式：</p><table><thead><tr><th align="center">变量</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center"><code>:year</code></td><td align="center">文章的发表年份（4 位数）</td></tr><tr><td align="center"><code>:month</code></td><td align="center">文章的发表月份（2 位数）</td></tr><tr><td align="center"><code>:i_month</code></td><td align="center">文章的发表月份（不含前导零）</td></tr><tr><td align="center"><code>:day</code></td><td align="center">文章的发表日期 (2 位数)</td></tr><tr><td align="center"><code>:i_day</code></td><td align="center">文章的发表日期（不含前导零）</td></tr><tr><td align="center"><code>:hour</code></td><td align="center">文章发表时的小时 (2 位数)</td></tr><tr><td align="center"><code>:minute</code></td><td align="center">文章发表时的分钟 (2 位数)</td></tr><tr><td align="center"><code>:second</code></td><td align="center">文章发表时的秒钟 (2 位数)</td></tr><tr><td align="center"><code>:title</code></td><td align="center">文件名称 (相对于 “source&#x2F;_posts&#x2F;“ 文件夹)</td></tr><tr><td align="center"><code>:name</code></td><td align="center">文件名称</td></tr><tr><td align="center"><code>:post_title</code></td><td align="center">文章标题</td></tr><tr><td align="center"><code>:id</code></td><td align="center">文章 ID (<em><a href="/zh-cn/docs/commands#clean">清除缓存</a>时不具有持久性</em>)</td></tr><tr><td align="center"><code>:category</code></td><td align="center">分类。如果文章没有分类，则是 <code>default_category</code> 配置信息。</td></tr><tr><td align="center"><code>:hash</code></td><td align="center">文件名（与 <code>:title</code> 相同）和日期的 SHA1 哈希值（12位16进制数）</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>npm ERR! Cannot read properties of null (reading ‘matches‘)</title>
+      <link href="/posts/661ef0e61567.html"/>
+      <url>/posts/661ef0e61567.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/posts/661ef0e61567/image-20231107205534482.png" alt="image-20231107205534482"></p><p>具体什么问题不知道，但实测下面方法有用：</p><ol><li><p>清空缓存</p><p>运行<code>npm cache clean --force</code></p></li><li><p>更新npm包</p><p>运行<code>npm update</code></p></li><li><p>删除 node modules 日录</p><p>删除项目中的 <strong>node modules</strong> 目录并重新运行 <code>npm install</code> 命令。</p></li><li><p>升级npm版本</p><p>运行<code>npm install -g npm</code></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题错误 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> NPM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>快速建立本地web服务</title>
+      <link href="/posts/e19626ecca6f.html"/>
+      <url>/posts/e19626ecca6f.html</url>
+      
+        <content type="html"><![CDATA[<p>有时候我们打开一个文档使用<strong>file协议</strong>打开的时候，不能发送<strong>ajax请求</strong>，只能使用<strong>http协议</strong>才能请求资源，所以此时我们需要在本地建立一个http服务，通过IP加端口号，来访问资源。</p><p>我一般用<strong>http-server</strong>来便捷的创建一个本地服务。</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><code>http-server</code>是一个简单的零配置命令行静态 HTTP 服务器。它足够强大，可用于生产用途，但它足够简单且可破解，可用于测试、本地开发和学习。</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h3><p>官网：<a href="https://nodejs.org/">https://nodejs.org/</a></p><p>安装后使用<code>node -v</code>检查是否安装成功。</p><h3 id="安装http-server"><a href="#安装http-server" class="headerlink" title="安装http-server"></a>安装http-server</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install http-server -g</span><br></pre></td></tr></table></figure><p>将http-server在全局安装，之后所有文件夹路径下输入<code>http-server</code>都可以使用。</p><h2 id="开启服务"><a href="#开启服务" class="headerlink" title="开启服务"></a>开启服务</h2><p>命令行窗口输入<code>http-server</code></p><p><img src="/posts/e19626ecca6f/image-20231105192947041.jpg" alt="image-20231105192947041"></p><p>命令行窗口会输出访问地址。</p><p><strong>Tips：</strong></p><ol><li>本机访问的话，两个地址都可以。其他设备连接，访问第一个地址。</li><li><code>ctrl+c</code>可停止服务</li></ol><h2 id="修改端口"><a href="#修改端口" class="headerlink" title="修改端口"></a>修改端口</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http-server -a 127.0.0.1 -p 1314</span><br></pre></td></tr></table></figure><h2 id="其他参数"><a href="#其他参数" class="headerlink" title="其他参数"></a>其他参数</h2><table><thead><tr><th align="center">参数</th><th align="center">作用</th></tr></thead><tbody><tr><td align="center">-p 或者 -port</td><td align="center">端口设置，默认是 <code>8080</code></td></tr><tr><td align="center">-a</td><td align="center">监听地址设置默认是 <code>0.0.0.0</code></td></tr><tr><td align="center">-d</td><td align="center">是否显示文件列表 默认<code>true</code></td></tr><tr><td align="center">-i</td><td align="center">显示自动索引 默认<code>true</code></td></tr><tr><td align="center">-g 或者 -gzip</td><td align="center">默认<code>false</code>，当文件的<code>gzip</code>版本存在且请求接受<code>gzip</code>编码时，它将服务于<code>./public/some-file.js.gz</code>，而不是<code>./public/some-file.js</code></td></tr><tr><td align="center">-e 或者 -ext</td><td align="center">如果没有提供默认文件扩展名(默认为<code>html</code>)</td></tr><tr><td align="center">-s 或者 -silent</td><td align="center">禁止控制台日志信息输出</td></tr><tr><td align="center">–cors</td><td align="center">允许跨域资源共享</td></tr><tr><td align="center">-o</td><td align="center">启动服务后打开默认浏览器</td></tr><tr><td align="center">-c</td><td align="center">设置缓存<code>cache-control max-age heade</code>存留时间（以秒为单位），示例：<code>-c10</code>是<code>10</code>秒，默认是<code>3600</code>秒，如果要禁用缓存就使用<code>-c-1</code></td></tr><tr><td align="center">-U 或者 -utc</td><td align="center">使用 <code>UTC</code>格式，在控制台输出时间信息</td></tr><tr><td align="center">-P 或者 -proxy</td><td align="center">通过一个 <code>url</code>地址，代理不能通过本地解析的资源</td></tr><tr><td align="center">-S 或者 -ssl</td><td align="center">使用<code>https</code>协议</td></tr><tr><td align="center">-C 或者 -cert</td><td align="center"><code>ssl</code>证书文件的路径，默认是<code>cert.pem</code></td></tr><tr><td align="center">-K 或者 -key</td><td align="center"><code>ssl</code>密匙文件路径</td></tr><tr><td align="center">-h 或者 -help</td><td align="center">显示帮助</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Node.js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>绝区零单机下载</title>
+      <link href="/posts/4761914cb790.html"/>
+      <url>/posts/4761914cb790.html</url>
+      
+        <content type="html"><![CDATA[<p>最近绝区零二测了，也是特别想玩，就找来了之前首测被解包的破解版玩玩。</p><p>虽然没剧情，只有一个打怪的场景，但浅浅体验一下也是够了。</p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>我放到了我的网盘，需要的自取。</p><p><a href="https://pan.weexy.cn/%E6%B8%B8%E6%88%8F/%E7%BB%9D%E5%8C%BA%E9%9B%B6/%E7%BB%9D%E9%9B%B6%E5%8C%BA%E5%8D%95%E6%9C%BA0.1.0.zip">绝零区单机0.1.0.zip | Weexy | Pan</a></p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>下载游戏并解压，确保目录里没中文。</p><p>运行Win.exe</p><p><img src="/posts/4761914cb790/image-20231105102849828.jpg" alt="image-20231105102849828"></p><p>点击顶部C#控制台</p><p><img src="/posts/4761914cb790/image-20231105105835431.jpg" alt="image-20231105105835431"></p><p>控制台内粘贴下面代码进入对应场景</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">AppInterface.RunLocalGame()  #进入游戏（执行下列命令前执行）</span><br><span class="line">AppInterface.RunStreet()   #进入街道地图</span><br><span class="line">AppInterface.RunLocalLevel()   #进入新手教程（唯一一个可以打怪的场景）</span><br></pre></td></tr></table></figure><p>其他代码：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">GMApi.SummonMonster(怪物id,怪物等级,false);</span><br><span class="line"></span><br><span class="line">GMApi.SummonMonster(999021052);   #刷一个可以打的邦布</span><br><span class="line"></span><br><span class="line">GMApi.SummonMonster(999013061);</span><br><span class="line"></span><br><span class="line">GMApi.SummonMonster(1)   #生成一个小兵 括号里面填数量 不然会报错 没有0这个数量</span><br><span class="line"></span><br><span class="line">GMApi.SummonMonster(amount);   #生成怪（似乎是训练机器人）</span><br></pre></td></tr></table></figure><h2 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h2><p><img src="/posts/4761914cb790/image-20231105103829604.jpg" alt="image-20231105103829604"></p><p><img src="/posts/4761914cb790/image-20231105104423766.jpg" alt="image-20231105104423766"></p><p><img src="/posts/4761914cb790/image-20231105104452788.jpg" alt="image-20231105104452788"></p><p><img src="/posts/4761914cb790/image-20231105104525642.jpg" alt="image-20231105104525642"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 破解 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Netlify 注册需要身份认证</title>
+      <link href="/posts/29a4071d1137.html"/>
+      <url>/posts/29a4071d1137.html</url>
+      
+        <content type="html"><![CDATA[<p>之前用的静态托管平台是Zeabur，后来发现了更好的<strong>Netlify</strong>。但是注册的时候它提示要身份验证，如下图。</p><p><img src="/posts/29a4071d1137/image-20231104214320665.jpg" alt="image-20231104214320665"></p><p>其实，直接用 <strong>GitHub</strong> 注册就不用身份验证了。</p><p>之前不知道，直接邮箱注册了，然后就……..</p><p>还没注册的提前避坑，我帮你们踩了。</p><p>注册了的，重新注册个邮箱，<strong>用Github注册</strong>吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题错误 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Netlify </tag>
+            
+            <tag> 避坑 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分享几个我在用的梯子（不要外传哦）</title>
+      <link href="/posts/d4e87d5105e7.html"/>
+      <url>/posts/d4e87d5105e7.html</url>
+      
+        <content type="html"><![CDATA[<p>分享几个我用的梯子（<strong>免费</strong>的，别外传，到时候就付费了）</p><h2 id="Planet-VPN"><a href="#Planet-VPN" class="headerlink" title="Planet VPN"></a>Planet VPN</h2><p>这个感觉还可以</p><ul><li><strong>不用注册</strong></li><li><strong>支持多平台</strong>，安卓、Windows、Mac、IOS、Luinx都能用，还有浏览器插件。</li><li><strong>速度一般</strong>，谷歌、discord 什么的完全没问题（免费的要啥速度）</li><li><strong>不限时长</strong>、<strong>不限流量</strong></li></ul><p>官网：<a href="https://freevpnplanet.com/">Free VPN – best free online VPN, fast and secure | Planet VPN (freevpnplanet.com)</a></p><p>下载有点慢，也可以从我的网盘下载：</p><ul><li>电脑：<a href="https://pan.weexy.cn/%E5%85%B6%E4%BB%96/VPN/planetvpn.exe">planetvpn.exe | Weexy | Pan</a></li><li>安卓：<a href="https://pan.weexy.cn/%E5%85%B6%E4%BB%96/VPN/planetvpn.apk">planetvpn.apk | Weexy | Pan</a></li></ul><p><img src="/posts/d4e87d5105e7/image-20231103222510366.jpg" alt="image-20231103222510366"></p><h2 id="Proton-VPN"><a href="#Proton-VPN" class="headerlink" title="Proton VPN"></a>Proton VPN</h2><p>这个也是<strong>免费</strong>的，<strong>要注册</strong>，但速度比上一个好多了</p><p>其他方面和上一个感觉没啥太大区别。</p><p>个人感觉没上一个好用，可以留着备用。</p><p>电脑要挂梯子才能登录，手机好像不用。</p><p>官网：<a href="https://protonvpn.com/download">Download VPN | Proton VPN</a>（要梯子）</p><p>网盘：</p><ul><li><p>电脑：<a href="https://pan.weexy.cn/%E5%85%B6%E4%BB%96/VPN/ProtonVPN_v3.2.7.exe">ProtonVPN_v3.2.7.exe | Weexy | Pan</a></p></li><li><p>安卓：<a href="https://pan.weexy.cn/%E5%85%B6%E4%BB%96/VPN/protonvpn.apk">protonvpn.apk | Weexy | Pan</a></p></li></ul><p><img src="/posts/d4e87d5105e7/image-20231115204026851.jpg" alt="image-20231115204026851"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VPN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Typora破解补丁</title>
+      <link href="/posts/d8c293557612.html"/>
+      <url>/posts/d8c293557612.html</url>
+      
+        <content type="html"><![CDATA[<p>Typora是一款 Markdown 编辑器和阅读器，个人认为是最好用的一个。</p><p>可惜，之前是免费的，正式版发布之后就开始收费了，虽然89永久使用，但作为白嫖党，能白嫖是最好的。</p><p>虽然不激活也能用，但每次打开都来个激活弹窗，真的难受死了。</p><p>下面是破解教程。</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>安装官网原版Typora</p><p>官网：<a href="https://typoraio.cn/">Typora 官方中文站 (typoraio.cn)</a></p><p><img src="/posts/d8c293557612/image-20231102221146844.jpg" alt="image-20231102221146844"></p><h2 id="下载补丁"><a href="#下载补丁" class="headerlink" title="下载补丁"></a>下载补丁</h2><p>下载破解补丁</p><p><a href="https://pan.weexy.cn/%E5%85%B6%E4%BB%96/Typora%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%81/1.7.6">1.7.6 | Weexy | Pan</a></p><p>将补丁复制到Typora安装目录下，重启Typora，就激活成功了。</p><p><img src="/posts/d8c293557612/image-20231102221307836.png" alt="image-20231102221307836"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> 破解 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>原神宵宫壁纸</title>
+      <link href="/posts/f1cada7536a6.html"/>
+      <url>/posts/f1cada7536a6.html</url>
+      
+        <content type="html"><![CDATA[<p>作为一个宵宫厨，我也收藏了些宵宫的壁纸，高清无水印，持续更新。</p><h2 id="原图"><a href="#原图" class="headerlink" title="原图"></a>原图</h2><p>原图高清下载：<a href="https://pan.weexy.cn/%E5%A3%81%E7%BA%B8/%E5%AE%B5%E5%AE%AB">宵宫 | Weexy | Pan</a></p><h2 id="预览（压缩过）"><a href="#预览（压缩过）" class="headerlink" title="预览（压缩过）"></a>预览（压缩过）</h2><p><img src="/posts/f1cada7536a6/07.jpg" alt="1"></p><p><img src="/posts/f1cada7536a6/06.jpg" alt="1"></p><p><img src="/posts/f1cada7536a6/05.jpg" alt="1"></p><p><img src="/posts/f1cada7536a6/04.jpg" alt="1"></p><p><img src="/posts/f1cada7536a6/03.jpg" alt="1"></p><p><img src="/posts/f1cada7536a6/02.jpg" alt="1"></p><p><img src="/posts/f1cada7536a6/01.jpg" alt="1"></p><p>更多图片，请移步至我的网盘查看</p><p><a href="https://pan.weexy.cn/%E5%A3%81%E7%BA%B8/%E5%AE%B5%E5%AE%AB">宵宫 | Weexy | Pan</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 壁纸 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>阿里云盘在线修改文件后缀（使用alist）</title>
+      <link href="/posts/d192edcdcc76.html"/>
+      <url>/posts/d192edcdcc76.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>众所周知，阿里云盘重命名不能修改文件的后缀，这点很蠢。</p><p>当有大文件需要分享，但该后缀又不能分享，就要先下载文件，修改后再上传，这样非常麻烦。</p><p>那有没有方法直接修改呢？</p><p>答案是有的。</p><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>alist可以把多中网盘挂载在一个网站中，统一管理网盘。可以<strong>直接</strong>上传传文件、<strong>重命名文件</strong>及下载文件。</p><p>利用这一点，我们就可以不下载文件，在线修改阿里云盘中文件的后缀。同样，该方法也适用于其他可以挂载的网盘。</p><p><img src="/posts/d192edcdcc76/image-20231023204837442.jpg" alt="image-20231023204837442"></p><p>推荐这种方法的最重要一个原因就是，alist不止可以运行在服务器上，win和mac也可以，而且 操作简单。</p><p>不会安装alist的可以看这篇文章：</p><p><a href="/posts/3a5f88847df1.html"><strong>Alist搭建教程</strong></a></p><hr><p>更多Alist的使用方法，欢迎评论分享！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Alist </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Alist网盘搭建</title>
+      <link href="/posts/3a5f88847df1.html"/>
+      <url>/posts/3a5f88847df1.html</url>
+      
+        <content type="html"><![CDATA[<p>之前搭建了alist网盘，顺便出个教程。</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><strong>Alist</strong>是一款非常强大的开源个人网盘管理软件，它的功能非常多。</p><p>可以在这里直接进行上传下载网盘文件、重命名文件等操作。</p><p>Alist不仅可以部署在服务器，Windows和Mac也能运行。</p><p><a href="https://alist.nn.ci/zh/">官方文档</a></p><h2 id="Pass"><a href="#Pass" class="headerlink" title="Pass"></a>Pass</h2><p>这个是我在用的方法，所以放前面讲。</p><p>这里就补充一个<strong>Zeabur</strong>，Heroku Render Koyeb 见<a href="https://alist.nn.ci/zh/guide/install/paas.html"><strong>官方文档</strong></a>。</p><p><strong>Tips：</strong></p><ol><li>Heroku <strong>无法注册</strong>（不知道你们行不行）</li><li>Render 本来是最好的方案，可惜被<strong>封杀</strong>了</li><li>Koyeb 和 fly.io <strong>需要信用卡</strong></li></ol><h3 id="zeabur部署"><a href="#zeabur部署" class="headerlink" title="zeabur部署"></a>zeabur部署</h3><p><strong>Fork</strong>这个仓库 <a href="https://github.com/Weexyy/Alist_zeabur">Weexyy&#x2F;Alist_zeabur (github.com)</a></p><p>新建一个服务，选择刚才Fork的仓库，等待部署完成。</p><p><img src="/posts/3a5f88847df1/image-20231029112455323.jpg" alt="image-20231029112455323"></p><p>下拉找到域名，可生成一个 zeabur.app 的二级域名，或添加一个自己的域名。</p><p><img src="/posts/3a5f88847df1/image-20231029112757625.jpg" alt="image-20231029112757625"></p><p>密码在 <strong>Runtime Logs</strong> 中查看，用户名为 <strong>admin</strong></p><p><img src="/posts/3a5f88847df1/image-20231029113032509.jpg" alt="image-20231029113032509"></p><p><strong>Tips：</strong></p><ol><li>重新部署后，数据会丢失，记得在alist的设置里备份</li><li>可以添加一个数据库，重新部署后就不用来回备份了，但我添加数据库后，就部署失败。</li><li>docker一段时间没人访问就会自动关闭，数据就会丢失，可以D监控里添加自己的网站（免费的） <a href="https://www.dnspod.cn/Products/Monitor">D监控 - 专注网站性能监控 (dnspod.cn)</a></li></ol><h2 id="Window"><a href="#Window" class="headerlink" title="Window"></a>Window</h2><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>下载：<a href="https://github.com/alist-org/alist/releases">Releases · alist-org&#x2F;alist (github.com)</a></p><p>点击<strong>Show all</strong>查看更多</p><p><img src="/posts/3a5f88847df1/image-20231023215627291.jpg" alt="image-20231023215627291"></p><p>选择适合的版本，Windows就选下面这个</p><p><img src="/posts/3a5f88847df1/image-20231023215805139.jpg" alt="image-20231023215805139"></p><p>下载后解压到任意目录</p><h3 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h3><p>在目录的地址栏输入<code>CMD</code></p><p><img src="/posts/3a5f88847df1/image-20231025213726061.jpg" alt="image-20231025213726061"></p><p>在CMD中输入<code>.\alist.exe server</code></p><p><img src="/posts/3a5f88847df1/image-20231025213034907.jpg" alt="image-20231025213034907"></p><p>如图所示。</p><h3 id="访问"><a href="#访问" class="headerlink" title="访问"></a>访问</h3><p>浏览器访问 <strong>127.0.0.1:5244</strong></p><p><img src="/posts/3a5f88847df1/image-20231025213106049.jpg" alt="image-20231025213106049"></p><p>用户名为 <strong>admin</strong></p><p>密码在控制台查看。</p><h2 id="Linux（一键安装脚本）"><a href="#Linux（一键安装脚本）" class="headerlink" title="Linux（一键安装脚本）"></a>Linux（一键安装脚本）</h2><p>仅适用于 Linux amd64&#x2F;arm64 平台。</p><h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s install</span><br></pre></td></tr></table></figure><h4 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s update</span><br></pre></td></tr></table></figure><h4 id="卸载"><a href="#卸载" class="headerlink" title="卸载"></a>卸载</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s uninstall</span><br></pre></td></tr></table></figure><h4 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h4><p>启动：<code>systemctl start alist</code></p><p>关闭：<code>systemctl stop alist</code></p><p>状态：<code>systemctl status alist</code></p><p>重启：<code>systemctl restart alist</code></p><p>获取密码：</p><ul><li>随机生成：<code>./alist admin random</code></li><li>手动设置：<code>./alist admin set 123456</code></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Alist </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows常用版本镜像下载（满速！）</title>
+      <link href="/posts/41693542ce14.html"/>
+      <url>/posts/41693542ce14.html</url>
+      
+        <content type="html"><![CDATA[<p>为方便自己下载，之前收集了一下系统镜像，这里分享出来，需要的自取。</p><p>下载不限速！</p><hr><p><a href="https://pan.weexy.cn/%E5%8E%9F%E7%89%88%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/"> 原版系统镜像 | Weexy | Pan</a> </p><p><img src="/posts/41693542ce14/image-20231022144432356.jpg" alt="image-20231022144432356"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信QQ防撤回插件，实测有效！</title>
+      <link href="/posts/442b2bf9e31f.html"/>
+      <url>/posts/442b2bf9e31f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="环境需求"><a href="#环境需求" class="headerlink" title="环境需求"></a>环境需求</h2><p><strong>Windows 7</strong> 或<strong>更高版本</strong>。<br><strong>.NET Framework 4.5</strong> 或<strong>更高版本</strong>。</p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>开源地址：<a href="https://github.com/huiyadanli/RevokeMsgPatcher">https://github.com/huiyadanli/RevokeMsgPatcher</a></p><p>下载地址：<a href="https://github.com/huiyadanli/RevokeMsgPatcher/releases">https://github.com/huiyadanli/RevokeMsgPatcher/releases</a></p><h2 id="安装使用"><a href="#安装使用" class="headerlink" title="安装使用"></a>安装使用</h2><p>使用前请关闭微信，以管理员身份运行程序，程序会自动识别微信安装路径，如果没有正确识别可以手动选择安装路径，然后点击“安装补丁”按钮即可。</p><p><img src="/posts/442b2bf9e31f/screenshot.jpg" alt="Screenshot"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 插件 </tag>
+            
+            <tag> Wechat </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Github上传后文件名大小写不变</title>
+      <link href="/posts/0f4c4bad5aa5.html"/>
+      <url>/posts/0f4c4bad5aa5.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><p>之前优化网站结构，改了几个文件夹名称，其中有些只改变了名称大小写的文件夹，本地修改是没什么问题的，但是提交后<strong>文件名还是原来的</strong>。网上找了各种方法，都没什么用</p><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>只需要把文件夹名称改一下，提交后在改回去重新提交就可以了。</p><p>例如，原来文件夹名称是 <strong>Home</strong>，改成 <strong>home</strong> 提交后，还是<strong>Home</strong></p><p>只需要把 Home <strong>随便改一个名字</strong>如h，提交后在改成home，就可以了。</p><hr><p>还有一种方法就是设置本地git环境识别大小写</p><p>用git执行下列命令：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config core.ignorecase false</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题错误 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>推荐几个网站托管平台</title>
+      <link href="/posts/a3ee46681660.html"/>
+      <url>/posts/a3ee46681660.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><strong>Github静态部署</strong>国内访问比较<strong>慢</strong>。所以，为了提升访问速度，可以把网页部署到其他平台。</p><h2 id="静态托管平台推荐"><a href="#静态托管平台推荐" class="headerlink" title="静态托管平台推荐"></a>静态托管平台推荐</h2><h3 id="1-Gitee-Pages"><a href="#1-Gitee-Pages" class="headerlink" title="1.Gitee Pages"></a>1.<a href="https://gitee.com/">Gitee Pages</a></h3><ul><li><p>简介：国内版Github，全中文平台。</p></li><li><p>优点：稳定性强，国内服务器速度快。</p></li><li><p>缺点：需要实名认证。</p></li><li><p>个人观点：虽然快，但是要实名认证对于我这种学生来说，非常不友好。</p></li></ul><h3 id="2-Vercel"><a href="#2-Vercel" class="headerlink" title="2.Vercel"></a>2.<a href="https://vercel.com/">Vercel</a></h3><ul><li><p>简介：一个开箱即用的网站托管服务，全球都拥有 CDN 节点，支持自定义域名和自动部署，前身叫 ZEIT。</p></li><li><p>优点：国内访问速度比 Github Pages 和 Cloudflare Pages 要快，支持自定义域名和自动部署。</p></li><li><p>缺点：构建次数和构建时长有限制，每月带宽限制 100G。</p></li><li><p>个人观点：之前有试过把博客托管这这里，但是它访问速度慢，和Github差不多。</p></li></ul><h3 id="3-Netlify（推荐）"><a href="#3-Netlify（推荐）" class="headerlink" title="3.Netlify（推荐）"></a>3.<a href="https://www.netlify.com/">Netlify</a>（推荐）</h3><ul><li>简介：国外的静态网页发布平台。</li><li>优点：和Github关联，自动部署。无需繁琐设置，操作简单。</li><li>缺点：每月100G流量限制，不过小博客够用。</li><li>个人观点：首选！我的博客也部署在这里。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 推荐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>随机图片API</title>
+      <link href="/posts/55e01456b4f3.html"/>
+      <url>/posts/55e01456b4f3.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="API"><a href="#API" class="headerlink" title="API"></a>API</h2><p>搞了个<strong>随机图片API</strong>，用在了博客首页左边，图片还不是很多，有好的可以放评论区，我加上。</p><p><code>https://pic.api.weexy.cn</code></p><p>图片全部来源于网络，侵权删。</p><p>为节省资源，加快访问速度，图片均有压缩。</p><h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><p>刷新页面可刷新图片</p><p><img src="https://pic.api.weexy.cn/all/api.php" alt="api"></p><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><ol><li>全部：<code>https://pic.api.weexy.cn/all/api.php</code></li><li>人物：<code>https://pic.api.weexy.cn/figure/api.php</code></li><li>风景：<code>https://pic.api.weexy.cn/scenery/api.php</code></li></ol><h3 id="所有图片"><a href="#所有图片" class="headerlink" title="所有图片"></a>所有图片</h3><p>人物：<img src="/posts/55e01456b4f3/image-20231010202606921.jpg" alt="image-20231010202606921"></p><p>风景：<img src="/posts/55e01456b4f3/image-20231010202633329.jpg" alt="image-20231010202633329"></p><h3 id="原图"><a href="#原图" class="headerlink" title="原图"></a>原图</h3><p>Github：<a href="https://github.com/Weexyy/img-photos-api">Weexyy&#x2F;img-photos-api (github.com)</a></p><p>云盘：<a href="https://pan.weexy.cn/%E5%A3%81%E7%BA%B8/img-api">img-api | Weexy | Pan</a></p><h2 id="调用方法"><a href="#调用方法" class="headerlink" title="调用方法"></a>调用方法</h2><p>当成一张正常的图片用就行了。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;https://pic.api.weexy.cn/all/api.php&quot;</span>&gt;</span></span><br></pre></td></tr></table></figure><h2 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h2><p>说是API，实际上就是随机转到一个图片的url，代码就四行</p><p>新建文件<strong>api.php</strong>和<strong>photos.txt</strong></p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$arr</span>=<span class="title function_ invoke__">file</span>(<span class="string">&#x27;photos.txt&#x27;</span>);</span><br><span class="line"><span class="variable">$n</span>=<span class="title function_ invoke__">count</span>(<span class="variable">$arr</span>)-<span class="number">1</span>;</span><br><span class="line"><span class="keyword">for</span> (<span class="variable">$i</span>=<span class="number">1</span>;<span class="variable">$i</span>&lt;=<span class="number">1</span>;<span class="variable">$i</span>++)&#123;</span><br><span class="line"><span class="variable">$x</span>=<span class="title function_ invoke__">rand</span>(<span class="number">0</span>,<span class="variable">$n</span>);<span class="title function_ invoke__">header</span>(<span class="string">&quot;Location:&quot;</span>.<span class="variable">$arr</span>[<span class="variable">$x</span>],<span class="string">&quot;\n&quot;</span>);&#125;</span><br><span class="line"><span class="meta">?&gt;</span> </span><br></pre></td></tr></table></figure><p>在txt文件里放图片url，一行一个。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> API </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo：文章插入图片的几种方案</title>
+      <link href="/posts/d257edaa9e65.html"/>
+      <url>/posts/d257edaa9e65.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>写前面几篇文章的时候，插入的图片总是莫名其妙的<strong>不显示</strong>，不过都解决了，这篇文章主要分享一下我插入<strong>图片的方法</strong>、<strong>遇到的问题</strong>及其<strong>解决方法</strong>。</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="使用床图（不推荐）"><a href="#使用床图（不推荐）" class="headerlink" title="使用床图（不推荐）"></a>使用床图（不推荐）</h3><p>这个也是我刚开始用的方法，我用的是 <a href="https://www.imgtp.com/">ImgTP</a> 它是免费的，有30G的空间，而且速度也挺快的。</p><p>可是……….</p><p><img src="/posts/d257edaa9e65/image-20231006144208603.jpg" alt="image-20231006144208603"></p><p>不得已，我只好换其他方法了。</p><p>如果还是要用床图的话，比较推荐<a href="https://www.superbed.cn/"><strong>聚合床图</strong></a>，我之前也用过，虽然只能存<strong>1000张</strong>，但小博客已经够用了，重点是它<strong>稳定</strong>啊！</p><p>但不管什么床图总有跑路的时候，除非自建，所以还是推荐其他方法。</p><h3 id="本地引用"><a href="#本地引用" class="headerlink" title="本地引用"></a>本地引用</h3><p>想要稳定、方便，那就只好把图片和 hexo 一起上传 GitHub 了。</p><p>至于缺点，那就只有GitHub国内访问慢，及仓库空间有限了。当然，你也可以把博客托管在其他平台来解决这一问题，之后有时间的话我也会出文章。</p><h4 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h4><p>可以在 <strong>source</strong> 文件夹中新建一个 <strong>img</strong> 文件夹，把图片放在该文件夹内，通过语法访问</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片描述](/img/图片名.jpg)</span><br></pre></td></tr></table></figure><p>可后来发现，本地预览的时候，图片明明可以显示，上传到Github后，它就不能显示了(ToT)&#x2F;~~~</p><p>于是我只好去找度娘了。</p><h4 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h4><p>在查百度的时候，发现了一种更加方便的方法。</p><p>首先要安装一个插件</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-marked</span><br></pre></td></tr></table></figure><p>然后修改hexo目录下的 <strong>_config.yml</strong>  把<code>post_asset_folder</code>设置为 <strong>true</strong></p><p>然后增加如下代码</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">marked:</span><br><span class="line">  prependRoot: true</span><br><span class="line">  postAsset: true</span><br></pre></td></tr></table></figure><p><img src="/posts/d257edaa9e65/image-20231006160056843.png" alt="image-20231006160056843"></p><p>创建文章时使用<code>hexo new</code>命令创建，会<strong>自动生成</strong>一个同名的文件夹</p><p>也可以手动在<strong>md文件的根目录</strong>创建一个<strong>同名文件夹</strong></p><p><img src="/posts/d257edaa9e65/image-20231006165217032.jpg" alt="image-20231006165217032"></p><p>把图片放在该文件夹内</p><p>就可以使用<code>![图片描述](图片名.jpg)</code>的方式引用图片了</p><p>像这样</p><p><img src="/posts/d257edaa9e65/image-20231006165354271.png" alt="image-20231006165354271"></p><h4 id="hexo与Typora的完美结合"><a href="#hexo与Typora的完美结合" class="headerlink" title="hexo与Typora的完美结合"></a>hexo与Typora的完美结合</h4><p>在上一种方法的基础上，使用 <strong>Typore</strong>编辑器 可以让插入更加方便。</p><p>打开 Typore，点击左上角的<strong>文件</strong>—<strong>偏好设置</strong>—<strong>图像</strong></p><p><strong>插入图片时</strong>选择<strong>复制到指定位置</strong></p><p>下面输入<code>./$&#123;filename&#125;</code></p><p><img src="/posts/d257edaa9e65/image-20231006162703977.jpg" alt="image-20231006162703977"></p><p>设置完后，可<strong>直接复制</strong>网页或资源管理器中的文件，粘贴到Typora中，会自动将该图片复制到于md文件同名的文件夹中，图片会自动变为<code>![图片描述](文章名/图片名.jpg)</code></p><p>但部署后，文件的路径是不同的，需要把<code>![图片描述](文章名/图片名.jpg)</code>中的 <strong>文章名</strong> 及 &#x2F; 删除。</p><p>Typora下载付费了，想白嫖的可以看我的这篇文章：<a href="/posts/d8c293557612.html">Typora破解教程</a></p><p><strong>Tips：</strong></p><ol><li>文章名删除后，图片在Typora中会无法显示，但部署后会。</li><li>嫌一个一个的删文件名麻烦？可以使用快捷键<code>ctrl+f</code>，将所有文章名替换为空格即可。</li></ol><p><img src="/posts/d257edaa9e65/image-20231006164017353.jpg" alt="image-20231006164017353"></p><h3 id="Alist"><a href="#Alist" class="headerlink" title="Alist"></a>Alist</h3><p>偶然发现，网盘上的图片挂载到Alist后，可以直接引用，这也是个不错的方法，阿里云盘的访问速度还是很可以的。</p><p>我也有计划想趁图片不多，把图片全部迁移到Alist。但仔细想想以后如果换域名，或alist没用了，那在迁移图片会很麻烦，就原来的方法将就着用吧。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Typora </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo：在 GitHub Pages 上部署 Hexo</title>
+      <link href="/posts/9d09c51d2f8d.html"/>
+      <url>/posts/9d09c51d2f8d.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本文详细写了如何在 GitHub Pages 上部署 Hexo，因为我也是小白，所以大部分的坑我都踩过了，都会写在文章中，绝对超详细。</p><p>虽然搭建、发文章都有点麻烦，但它不用服务器，<strong>不要额外花钱啊</strong>！！！</p><p>话不多说，正文开始。</p><hr><h2 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h2><p>Hexo 基于 Node.js，搭建过程中还需要使用 npm（Node.js 已带） 和 git，因此先搭建本地操作环境，安装 Node.js 和 Git。</p><ul><li><p>Node.js：<a href="https://nodejs.org/zh-cn" target="_blank">https://nodejs.org/zh-cn </a>(Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)</p></li><li><p>Git：<a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a></p></li></ul><p>下载 Node.js 和 Git 程序并安装，一路点 “下一步” 按默认配置完成安装。</p><p>安装完成后，<strong>Win+R</strong> 输入 cmd 并打开，依次输入<code>node -v</code>、<code>npm -v</code> 和 <code>git -v</code> 并回车，如下图出现程序版本号即安装成功（版本号可能不一样），开始下一步。</p><p><img src="/posts/9d09c51d2f8d/1.png" alt="1"></p><hr><h2 id="本地安装-Hexo-博客程序"><a href="#本地安装-Hexo-博客程序" class="headerlink" title="本地安装 Hexo 博客程序"></a>本地安装 Hexo 博客程序</h2><p>官方文档：<a href="https://hexo.io/zh-cn/docs/" target="_blank">https://hexo.io/zh-cn/docs/</a></p><p>新建一个文件夹用来存放 Hexo 的程序文件，如 Blog。打开该文件夹，右键点击 Git Bash Here。</p><p>所有必备的应用程序安装完成后，即可使用 npm 安装 Hexo。</p><p><code>npm install -g hexo-cli</code></p><p>Mac 用户需要管理员权限（sudo），运行这条命令：</p><p><code>sudo npm install -g hexo-cli</code></p><p>安装完成后如下图。</p><p><img src="/posts/9d09c51d2f8d/2.jpg" alt="2"></p><h3 id="Hexo-初始化和本地预览"><a href="#Hexo-初始化和本地预览" class="headerlink" title="Hexo 初始化和本地预览"></a>Hexo 初始化和本地预览</h3><p>安装完成后，继续输入下面的命令。</p><p> 初始化</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><p>初始化后文件目录下会多出一下文件和文件夹。</p><p><img src="/posts/9d09c51d2f8d/3.jpg" alt="3"></p><p>安装组件</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><p>完成后依次输入下面命令，启动本地服务器进行预览：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><p>访问 <code>http://localhost:4000</code>，出现 Hexo 默认页面，本地博客安装成功！</p><p><strong>Tips：</strong></p><ol><li>可以使用 <strong>Ctrl+C</strong> 中断本地服务</li><li>如果你不喜欢 4000 这个端口可使用命令<code>hexo server -p 1314</code>指定端口，访问<code>http://localhost:1314</code></li></ol><p><img src="/posts/9d09c51d2f8d/4.jpg" alt="4"></p><p>到这里你的博客已经搭建成功了，但其他人不能访问，需要把它部署到<strong>Github Pages</strong>上。</p><hr><h2 id="部署到-Github"><a href="#部署到-Github" class="headerlink" title="部署到 Github"></a>部署到 Github</h2><p>注册 <a href="https://github.com/" target="_blank">Github</a> 账户，选择免费账户。（已经有账号的话可以跳过，这里就不多讲了，不会的自己百度）</p><p><strong>Tips：</strong>Github访问不了的话，可以挂个加速器，免费 <strong>Watt Toolkit</strong> 就行，下载地址自己百度吧。</p><h3 id="创建-Github-Pages-仓库"><a href="#创建-Github-Pages-仓库" class="headerlink" title="创建 Github Pages 仓库"></a>创建 Github Pages 仓库</h3><p>点击 <a href="https://github.com/" target="_blank">Github</a> 主页右上角加号，在点二级菜单中的 <strong>New repository</strong></p><p><img src="/posts/9d09c51d2f8d/5.jpg" alt="5"></p><ul><li><p><strong>Repository name</strong> 中输入 <strong>用户名.github.io</strong>（<code>重点！！！不是这样就访问不了！！！</code>）</p><p>例如，我的用户名是weexyy，Repository name中就输入 <strong>weexyy.github.io</strong></p></li><li><p>勾选 “<strong>Initialize this repository with a README</strong>”</p></li><li><p>Description 选填</p></li></ul><p><img src="/posts/9d09c51d2f8d/6.jpg" alt="6"></p><p>填好后点击下面绿色的 <strong>Create repository</strong> 创建。</p><p>创建后默认自动启用 HTTPS，博客地址为：<code>https://用户名.github.io</code></p><h3 id="配置Github账户信息"><a href="#配置Github账户信息" class="headerlink" title="配置Github账户信息"></a>配置Github账户信息</h3><p>回到<strong>Git Bash</strong>中，配置Github账户信息（<strong>用户名</strong>和<strong>邮箱</strong>都替换成你自己 Github上的）</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name  用户名</span><br><span class="line">git config --global user.email  邮箱</span><br></pre></td></tr></table></figure><h4 id="创建-SSH-密匙："><a href="#创建-SSH-密匙：" class="headerlink" title="创建 SSH 密匙："></a>创建 SSH 密匙：</h4><p>输入 <code>ssh-keygen -t rsa</code>，然后一路回车。</p><p>然后按Git Bash给出的路径（<strong>C:\Users\Lete.ssh</strong>）找到<strong>id_rsa.pub</strong>文件，用<strong>记事本</strong>打开，并复制其中的内容。</p><p>进到新建的Github仓库，点击右上角<strong>setting</strong>进入设置找到<strong>Deploykeys</strong>选择 <strong>Add Deploy keys</strong> 。</p><p><img src="/posts/9d09c51d2f8d/7.jpg" alt="7"></p><p><strong>Title</strong>随便填， <strong>Key</strong>的内容填刚才<strong>id_rsa.pub</strong>文件中复制的内容。</p><p>填好后记得点<strong>add kry</strong>保存。</p><p><img src="/posts/9d09c51d2f8d/8.jpg" alt="8"></p><h3 id="修改-config-yml文件"><a href="#修改-config-yml文件" class="headerlink" title="修改_config.yml文件"></a>修改_config.yml文件</h3><p>用记事本打开的Hexo项目文件夹下单**_config.yml<strong>文件，拉到最底部找到</strong>deploy:**填写如下内容(注意:冒号后面有个空格)</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">type: git</span><br><span class="line">    repo: https://github.com/你的用户名/你的用户名.github.io.git</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure><p>像这样</p><p><img src="/posts/9d09c51d2f8d/9.jpg" alt="9"></p><h3 id="部署到Github"><a href="#部署到Github" class="headerlink" title="部署到Github"></a>部署到Github</h3><p>回到 <strong>Git bash</strong> 中，进入你的Hexo目录，分别执行以下命令</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save  #安装部署工具</span><br><span class="line">hexo clean                            #清除缓存       </span><br><span class="line">hexo generate                         #生成静态文件    可缩写hexo g</span><br><span class="line">hexo deploy                           #部署到Github   可缩写hexo d</span><br></pre></td></tr></table></figure><p><strong>Tips：</strong></p><ol><li><p>生成静态文件前记得先执行<strong>hexo clean</strong> 清理缓存，不然可能会出问题。<del>（我懒，没这么做，不过没啥问题）</del></p></li><li><p><strong>hexo generate</strong> 和 <strong>hexo deploy</strong> 这两个命令可以缩写成<strong>hexo g -d</strong></p></li><li><p>出现下面的报错，挂个加速器就好了</p><p><img src="/posts/9d09c51d2f8d/image-20231004140109436.png" alt="image-20231004140109436"></p></li></ol><h2 id="访问"><a href="#访问" class="headerlink" title="访问"></a>访问</h2><p>在浏览器中输入<code>http://你的Github用户名.github.io</code> 就可以看到刚才部署的博客了。</p><hr><h2 id="自定义域名"><a href="#自定义域名" class="headerlink" title="自定义域名"></a>自定义域名</h2><p>部署完成后，我们的博客就可以访问了，自定义域名是可选的。</p><h3 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h3><p>购买推荐到 <a href="https://wanwang.aliyun.com/domain"><strong>阿里云</strong></a> 和 <a href="https://dnspod.cloud.tencent.com/"><strong>腾讯云</strong></a> </p><p>如果预算有限、图便宜，也推荐 <a href="https://www.vpsor.cn/product/domain-buy?userCode=ph2087d">硅云</a> ，新用户 top就0元，cn也才9元。</p><p>我是从硅云上注册的一个 cn 域名 weexy.cn ，就9元，还是非常香的，续费的话也就38。</p><p><del>之前在腾讯云上注册了一个 com 域名 z-wx.com，花了20，因为有活动，也是很便宜。</del></p><p>至于购买过程，这里就不多讲了。</p><h3 id="域名绑定与解析"><a href="#域名绑定与解析" class="headerlink" title="域名绑定与解析"></a>域名绑定与解析</h3><h4 id="添加记录"><a href="#添加记录" class="headerlink" title="添加记录"></a>添加记录</h4><p>在你购买后打开域名控制台，比如我在硅云买的，就打开 <a href="https://dnsmsn.com/">域名控制面板</a>。</p><p>添加如下记录：</p><p><img src="/posts/9d09c51d2f8d/image-20231005114333730.png" alt="image-20231005114333730"></p><ul><li><p>主机记录为域名的前缀。如，blog.weexy.cn 中的 <strong>blog</strong> ，不需要前缀的填 <strong>@</strong> </p></li><li><p>解析类型为 <code>CNAME</code></p></li><li><p>记录值为你你博客原来的域名，也就是 <strong>用户名.github.io</strong></p></li></ul><h4 id="绑定域名"><a href="#绑定域名" class="headerlink" title="绑定域名"></a>绑定域名</h4><p>在 GitHub 中找到自己的博客仓库，点击 <strong>Setting</strong> ，拉到最下面找到 <strong>Pages</strong> 点进去。</p><p><img src="/posts/9d09c51d2f8d/image-20231005115559283.jpg" alt="image-20231005115559283"></p><p>在 Custom domain 输入自己的域名，save 即可。</p><p><img src="/posts/9d09c51d2f8d/image-20231005115909846.jpg" alt="image-20231005115909846"></p><p>记得打开 <strong>https</strong></p><hr><h2 id="尾声"><a href="#尾声" class="headerlink" title="尾声"></a>尾声</h2><p>到这里，整个hexo博客已经搭建完成了，不过默认的主题有点丑，Github的访问速度也有点吗，后面我会出hexo博客的美化教程，比如：更换主题、自定义域名、提高访问速度等教程，谢谢大家的支持。</p><p>如果这篇文章对你有帮助，能不能…….请我杯奶茶！嘿嘿ヾ(≧▽≦*)o 点下面的打赏作者就可以，我会公开感谢你的哦😘😘😘</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hai~ Wellcome to my blog！</title>
+      <link href="/posts/5136f8b94971.html"/>
+      <url>/posts/5136f8b94971.html</url>
+      
+        <content type="html"><![CDATA[<p>我的blog在 <em><strong>2023年9月27日</strong></em> 搭建</p><p>这是搭建以来<strong>第一个</strong>文章，</p><p>后续我会在这上面发布文章，敬请期待哦~~~</p><p><img src="/posts/5136f8b94971/welcome.gif" alt="welcome"></p><h2 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h2><h3 id="一、协议"><a href="#一、协议" class="headerlink" title="一、协议"></a>一、协议</h3><ul><li><p><a href="/privacy/"><strong>隐私政策</strong></a></p></li><li><p><a href="/cookies/"><strong>Cookies</strong></a></p></li><li><p><a href="/copyright/"><strong>版权协议</strong></a></p></li></ul><h3 id="二、技术框架"><a href="#二、技术框架" class="headerlink" title="二、技术框架"></a>二、技术框架</h3><ul><li><strong>网站框架</strong>：<a href="https://hexo.io/">Hexo v6.3.0</a></li><li><strong>网站主题</strong> ：<a href="https://docs.anheyu.com/">AnZhiYu v1.6.9</a></li><li><strong>底层驱动</strong>：<a href="https://nodejs.org/">Node.js</a></li><li><strong>PaaS</strong>：<a href="https://www.netlify.com/">Netlify</a>、<a href="https://zeabur.com/">Zeabur</a>、<a href="https://vercel.com/">Vercel</a></li></ul><h3 id="三、联系方式"><a href="#三、联系方式" class="headerlink" title="三、联系方式"></a>三、联系方式</h3><ul><li><strong>Email</strong>：<a href="mailto:&#119;&#x65;&#x65;&#x78;&#x79;&#x79;&#64;&#49;&#x36;&#51;&#x2e;&#x63;&#x6f;&#x6d;">&#119;&#x65;&#x65;&#x78;&#x79;&#x79;&#64;&#49;&#x36;&#51;&#x2e;&#x63;&#x6f;&#x6d;</a></li><li><strong>QQ</strong>：<a href="https://qm.qq.com/q/qLv30yvBEk">2687899692</a></li></ul><h3 id="四、赞助本站"><a href="#四、赞助本站" class="headerlink" title="四、赞助本站"></a>四、赞助本站</h3><p>如果您觉得本站对您有帮助，感谢赞助，我们将赞助的收入用于提升服务器性能和网站内容建设，更好的服务用户，谢谢！赞助用户有意留名的可在赞助时留名，以方便公示。由于保护用户隐私，我们将会只显示赞助用户的部分信息，谢谢！</p><ul><li><strong>微信</strong></li></ul><p><img src="/img/collection/weixin.jpg" alt="微信"></p><ul><li><strong>支付宝</strong></li></ul><p><img src="/img/collection/zhifubao.jpg" alt="支付宝"></p><h3 id="五、其他说明"><a href="#五、其他说明" class="headerlink" title="五、其他说明"></a>五、其他说明</h3><ol><li>申请友情链接的朋友可以在任意文章<strong>评论区评论</strong>，或<strong>邮箱</strong>、<strong>QQ</strong>联系我</li><li>本站下载的压缩文件解压码均为<strong>weexy.cn</strong>，若不是，请留意备注</li><li>文章内容及其封面图片可能来源于网络，若有侵权，请及时<strong>联系我</strong>删除</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Welcome </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
