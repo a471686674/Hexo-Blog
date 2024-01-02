@@ -364,31 +364,6 @@
     
     
     <entry>
-      <title>Alist网盘搭建</title>
-      <link href="/posts/3a5f88847df1.html"/>
-      <url>/posts/3a5f88847df1.html</url>
-      
-        <content type="html"><![CDATA[<p>之前搭建了alist网盘，顺便出个教程。</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><strong>Alist</strong>是一款非常强大的开源个人网盘管理软件，它的功能非常多。</p><p>可以在这里直接进行上传下载网盘文件、重命名文件等操作。</p><p>Alist不仅可以部署在服务器，Windows和Mac也能运行。</p><p><a href="https://alist.nn.ci/zh/">官方文档</a></p><h2 id="Pass"><a href="#Pass" class="headerlink" title="Pass"></a>Pass</h2><p>这个是我在用的方法，所以放前面讲。</p><p>这里就补充一个<strong>Zeabur</strong>，Heroku Render Koyeb 见<a href="https://alist.nn.ci/zh/guide/install/paas.html"><strong>官方文档</strong></a>。</p><p><strong>Tips：</strong></p><ol><li>Heroku <strong>无法注册</strong>（不知道你们行不行）</li><li>Render 本来是最好的方案，可惜被<strong>封杀</strong>了</li><li>Koyeb 和 fly.io <strong>需要信用卡</strong></li></ol><h3 id="zeabur部署"><a href="#zeabur部署" class="headerlink" title="zeabur部署"></a>zeabur部署</h3><p><strong>Fork</strong>这个仓库 <a href="https://github.com/Weexyy/Alist_zeabur">Weexyy&#x2F;Alist_zeabur (github.com)</a></p><p>新建一个服务，选择刚才Fork的仓库，等待部署完成。</p><p><img src="/posts/3a5f88847df1/image-20231029112455323.jpg" alt="image-20231029112455323"></p><p>下拉找到域名，可生成一个 zeabur.app 的二级域名，或添加一个自己的域名。</p><p><img src="/posts/3a5f88847df1/image-20231029112757625.jpg" alt="image-20231029112757625"></p><p>密码在 <strong>Runtime Logs</strong> 中查看，用户名为 <strong>admin</strong></p><p><img src="/posts/3a5f88847df1/image-20231029113032509.jpg" alt="image-20231029113032509"></p><p><strong>Tips：</strong></p><ol><li>重新部署后，数据会丢失，记得在alist的设置里备份</li><li>可以添加一个数据库，重新部署后就不用来回备份了，但我添加数据库后，就部署失败。</li><li>docker一段时间没人访问就会自动关闭，数据就会丢失，可以D监控里添加自己的网站（免费的） <a href="https://www.dnspod.cn/Products/Monitor">D监控 - 专注网站性能监控 (dnspod.cn)</a></li></ol><h2 id="Window"><a href="#Window" class="headerlink" title="Window"></a>Window</h2><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>下载：<a href="https://github.com/alist-org/alist/releases">Releases · alist-org&#x2F;alist (github.com)</a></p><p>点击<strong>Show all</strong>查看更多</p><p><img src="/posts/3a5f88847df1/image-20231023215627291.jpg" alt="image-20231023215627291"></p><p>选择适合的版本，Windows就选下面这个</p><p><img src="/posts/3a5f88847df1/image-20231023215805139.jpg" alt="image-20231023215805139"></p><p>下载后解压到任意目录</p><h3 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h3><p>在目录的地址栏输入<code>CMD</code></p><p><img src="/posts/3a5f88847df1/image-20231025213726061.jpg" alt="image-20231025213726061"></p><p>在CMD中输入<code>.\alist.exe server</code></p><p><img src="/posts/3a5f88847df1/image-20231025213034907.jpg" alt="image-20231025213034907"></p><p>如图所示。</p><h3 id="访问"><a href="#访问" class="headerlink" title="访问"></a>访问</h3><p>浏览器访问 <strong>127.0.0.1:5244</strong></p><p><img src="/posts/3a5f88847df1/image-20231025213106049.jpg" alt="image-20231025213106049"></p><p>用户名为 <strong>admin</strong></p><p>密码在控制台查看。</p><h2 id="Linux（一键安装脚本）"><a href="#Linux（一键安装脚本）" class="headerlink" title="Linux（一键安装脚本）"></a>Linux（一键安装脚本）</h2><p>仅适用于 Linux amd64&#x2F;arm64 平台。</p><h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s install</span><br></pre></td></tr></table></figure><h4 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s update</span><br></pre></td></tr></table></figure><h4 id="卸载"><a href="#卸载" class="headerlink" title="卸载"></a>卸载</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s uninstall</span><br></pre></td></tr></table></figure><h4 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h4><p>启动：<code>systemctl start alist</code></p><p>关闭：<code>systemctl stop alist</code></p><p>状态：<code>systemctl status alist</code></p><p>重启：<code>systemctl restart alist</code></p><p>获取密码：</p><ul><li>随机生成：<code>./alist admin random</code></li><li>手动设置：<code>./alist admin set 123456</code></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网站搭建 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Alist </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Windows常用版本镜像下载</title>
       <link href="/posts/41693542ce14.html"/>
       <url>/posts/41693542ce14.html</url>
@@ -406,6 +381,31 @@
         <tags>
             
             <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Alist网盘搭建</title>
+      <link href="/posts/3a5f88847df1.html"/>
+      <url>/posts/3a5f88847df1.html</url>
+      
+        <content type="html"><![CDATA[<p>之前搭建了alist网盘，顺便出个教程。</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><strong>Alist</strong>是一款非常强大的开源个人网盘管理软件，它的功能非常多。</p><p>可以在这里直接进行上传下载网盘文件、重命名文件等操作。</p><p>Alist不仅可以部署在服务器，Windows和Mac也能运行。</p><p><a href="https://alist.nn.ci/zh/">官方文档</a></p><h2 id="Pass"><a href="#Pass" class="headerlink" title="Pass"></a>Pass</h2><p>这个是我在用的方法，所以放前面讲。</p><p>这里就补充一个<strong>Zeabur</strong>，Heroku Render Koyeb 见<a href="https://alist.nn.ci/zh/guide/install/paas.html"><strong>官方文档</strong></a>。</p><p><strong>Tips：</strong></p><ol><li>Heroku <strong>无法注册</strong>（不知道你们行不行）</li><li>Render 本来是最好的方案，可惜被<strong>封杀</strong>了</li><li>Koyeb 和 fly.io <strong>需要信用卡</strong></li></ol><h3 id="zeabur部署"><a href="#zeabur部署" class="headerlink" title="zeabur部署"></a>zeabur部署</h3><p><strong>Fork</strong>这个仓库 <a href="https://github.com/Weexyy/Alist_zeabur">Weexyy&#x2F;Alist_zeabur (github.com)</a></p><p>新建一个服务，选择刚才Fork的仓库，等待部署完成。</p><p><img src="/posts/3a5f88847df1/image-20231029112455323.jpg" alt="image-20231029112455323"></p><p>下拉找到域名，可生成一个 zeabur.app 的二级域名，或添加一个自己的域名。</p><p><img src="/posts/3a5f88847df1/image-20231029112757625.jpg" alt="image-20231029112757625"></p><p>密码在 <strong>Runtime Logs</strong> 中查看，用户名为 <strong>admin</strong></p><p><img src="/posts/3a5f88847df1/image-20231029113032509.jpg" alt="image-20231029113032509"></p><p><strong>Tips：</strong></p><ol><li>重新部署后，数据会丢失，记得在alist的设置里备份</li><li>可以添加一个数据库，重新部署后就不用来回备份了，但我添加数据库后，就部署失败。</li><li>docker一段时间没人访问就会自动关闭，数据就会丢失，可以D监控里添加自己的网站（免费的） <a href="https://www.dnspod.cn/Products/Monitor">D监控 - 专注网站性能监控 (dnspod.cn)</a></li></ol><h2 id="Window"><a href="#Window" class="headerlink" title="Window"></a>Window</h2><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>下载：<a href="https://github.com/alist-org/alist/releases">Releases · alist-org&#x2F;alist (github.com)</a></p><p>点击<strong>Show all</strong>查看更多</p><p><img src="/posts/3a5f88847df1/image-20231023215627291.jpg" alt="image-20231023215627291"></p><p>选择适合的版本，Windows就选下面这个</p><p><img src="/posts/3a5f88847df1/image-20231023215805139.jpg" alt="image-20231023215805139"></p><p>下载后解压到任意目录</p><h3 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h3><p>在目录的地址栏输入<code>CMD</code></p><p><img src="/posts/3a5f88847df1/image-20231025213726061.jpg" alt="image-20231025213726061"></p><p>在CMD中输入<code>.\alist.exe server</code></p><p><img src="/posts/3a5f88847df1/image-20231025213034907.jpg" alt="image-20231025213034907"></p><p>如图所示。</p><h3 id="访问"><a href="#访问" class="headerlink" title="访问"></a>访问</h3><p>浏览器访问 <strong>127.0.0.1:5244</strong></p><p><img src="/posts/3a5f88847df1/image-20231025213106049.jpg" alt="image-20231025213106049"></p><p>用户名为 <strong>admin</strong></p><p>密码在控制台查看。</p><h2 id="Linux（一键安装脚本）"><a href="#Linux（一键安装脚本）" class="headerlink" title="Linux（一键安装脚本）"></a>Linux（一键安装脚本）</h2><p>仅适用于 Linux amd64&#x2F;arm64 平台。</p><h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s install</span><br></pre></td></tr></table></figure><h4 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s update</span><br></pre></td></tr></table></figure><h4 id="卸载"><a href="#卸载" class="headerlink" title="卸载"></a>卸载</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s uninstall</span><br></pre></td></tr></table></figure><h4 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h4><p>启动：<code>systemctl start alist</code></p><p>关闭：<code>systemctl stop alist</code></p><p>状态：<code>systemctl status alist</code></p><p>重启：<code>systemctl restart alist</code></p><p>获取密码：</p><ul><li>随机生成：<code>./alist admin random</code></li><li>手动设置：<code>./alist admin set 123456</code></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Alist </tag>
             
         </tags>
       
