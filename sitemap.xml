@@ -324,27 +324,6 @@
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/tags/%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2024-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.weexy.cn/tags/Wechat/</loc>
-    <lastmod>2024-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.weexy.cn/tags/GitHub/</loc>
-    <lastmod>2024-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.weexy.cn/tags/Alist/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -366,6 +345,27 @@
   </url>
   
   <url>
+    <loc>https://blog.weexy.cn/tags/GitHub/</loc>
+    <lastmod>2024-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.weexy.cn/tags/%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2024-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.weexy.cn/tags/Wechat/</loc>
+    <lastmod>2024-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.weexy.cn/tags/Hexo/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -373,14 +373,14 @@
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/tags/Typora/</loc>
+    <loc>https://blog.weexy.cn/tags/API/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/tags/API/</loc>
+    <loc>https://blog.weexy.cn/tags/Typora/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -395,13 +395,6 @@
   
   <url>
     <loc>https://blog.weexy.cn/tags/VPN/</loc>
-    <lastmod>2024-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.weexy.cn/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -429,13 +422,6 @@
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/tags/Python/</loc>
-    <lastmod>2024-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.weexy.cn/tags/%E6%8B%8D%E6%91%84/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -450,7 +436,7 @@
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/tags/Welcome/</loc>
+    <loc>https://blog.weexy.cn/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -458,6 +444,20 @@
   
   <url>
     <loc>https://blog.weexy.cn/tags/NPM/</loc>
+    <lastmod>2024-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.weexy.cn/tags/Python/</loc>
+    <lastmod>2024-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.weexy.cn/tags/Welcome/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -501,14 +501,14 @@
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://blog.weexy.cn/categories/%E6%9C%8D%E5%8A%A1/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.weexy.cn/categories/%E6%9C%8D%E5%8A%A1/</loc>
+    <loc>https://blog.weexy.cn/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2024-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
