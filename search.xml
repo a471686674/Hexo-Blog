@@ -4,25 +4,25 @@
   
     
     <entry>
-      <title>自制安卓混血开机动画</title>
-      <link href="/posts/008523c2bdd4.html"/>
-      <url>/posts/008523c2bdd4.html</url>
+      <title>分享一下我的红米Note 12 turbo调教方案</title>
+      <link href="/posts/7c4ad0a43f1c.html"/>
+      <url>/posts/7c4ad0a43f1c.html</url>
       
-        <content type="html"><![CDATA[<p>之前抖音上刷到的，感觉怪牛逼的，就做成了Magisk模块。</p><p>下载：<a href="https://weexy.lanzn.com/iRH0R1l3i4jc">https://weexy.lanzn.com/iRH0R1l3i4jc</a></p><p>正常的面具模块安装就行，重启看效果</p><p><del>（素材来源于网络，侵权请联系我删除！）</del></p><p><img src="/posts/008523c2bdd4/1.gif" alt="预览"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="方案"><a href="#方案" class="headerlink" title="方案"></a>方案</h2><ul><li><p>刷入tv内核<br> 下载链接：<a href="https://www.123pan.com/s/x3d2jv-fdV1H.html">https://www.123pan.com/s/x3d2jv-fdV1H.html</a><br>刷内核工具：<a href="https://www.123pan.com/s/x3d2jv-BdV1H.html">https://www.123pan.com/s/x3d2jv-BdV1H.html</a></p></li><li><p>降压（用konabess刷入）<br> 下载链接：<a href="https://www.123pan.com/s/x3d2jv-IdV1H.html">https://www.123pan.com/s/x3d2jv-IdV1H.html</a></p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">konabess://H4sIAAAAAAAAAMXS3U7CMBgG4Fsh9RRMf7bR+UOMN+EJiem6r7g45lhFpoRzvSfuiVuwg0SKtsQtEg+WJe/bft2TdYnkQ1aiCzR/BLjXWTHJ4TYrUB+loKXJ7wDq1836fdG8z2WxWX+YUlUwM+VMPk37k3I+KBdVDi+Q695yXJyJNK1A64GE3CTXvStck9GlKXT2BnaKm9TMKMVzluRgwrFj5hiZVT/iG9ycVcFkO2pkL2m+bncAZSxWRO7r7dZdF+7TZK6tTclBPs2KXTw8jEX9fbWQ6cCazzmFUKn0q5e1XQfb41dOGrFoxEMjKh5Szp004qNFblrkpvGONHKERi0a9dEEFXHi/mttaawlTWLKO9KYRWM+WpiYO4nb0ZibRty06AS0wKIFPhoLVBq3pNE/o4mOtNCihT4aVlKS4JS08AhNdqRFFi3y0BIcAf4nGf/lfWwetPoE39SWLKsGAAA=</span><br></pre></td></tr></table></figure></li><li><p>Asoul A37  （ <a href="https://www.123pan.com/s/x3d2jv-pdV1H.html">https://www.123pan.com/s/x3d2jv-pdV1H.html</a> ）</p></li></ul><h2 id="其他内核"><a href="#其他内核" class="headerlink" title="其他内核"></a>其他内核</h2><p>我还测试了其他内核，下面是结果，仅供参考：</p><p>（原神画质拉满，璃月港跑图）</p><table><thead><tr><th align="center">内核</th><th align="center">调度</th><th align="center">平均帧数</th><th align="center">功耗</th><th align="center">备注</th></tr></thead><tbody><tr><td align="center">潘多拉1121</td><td align="center">无</td><td align="center">57.42</td><td align="center">4.75</td><td align="center">掉帧，但在可接受范围内</td></tr><tr><td align="center">潘多拉1121</td><td align="center">Asoul A37</td><td align="center">57.16</td><td align="center">4.56</td><td align="center">掉帧，但在可接受范围内</td></tr><tr><td align="center">潘多拉1121</td><td align="center">Uperf</td><td align="center">57.03</td><td align="center">4.54</td><td align="center">省不省电不知道，但帧率极其不稳</td></tr><tr><td align="center">tv内核</td><td align="center">无</td><td align="center">58.44</td><td align="center">5.24</td><td align="center">帧率稳在58-61，无严重掉帧</td></tr><tr><td align="center">tv内核</td><td align="center">Asoul A37</td><td align="center">59.89</td><td align="center">5.18</td><td align="center">出乎意料，帧率稳成直线，轻微掉帧</td></tr><tr><td align="center">daradox 1.1</td><td align="center">无</td><td align="center">54.52</td><td align="center">4.47</td><td align="center">帧率难以形容，但功耗比其他内核低</td></tr><tr><td align="center">daradox 1.1</td><td align="center">Asoul A37</td><td align="center">39.21</td><td align="center">3.72</td><td align="center">依托答辩</td></tr><tr><td align="center">潘多拉9A</td><td align="center">无</td><td align="center">59.27</td><td align="center">5.37</td><td align="center">跟tv内核差不多</td></tr><tr><td align="center">潘多拉9A</td><td align="center">Asoul A37</td><td align="center">59.08</td><td align="center">4.97</td><td align="center">虽然没tv稳，但功耗降了一点</td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> 分享 </category>
+          <category> 刷机 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 插件 </tag>
+            <tag> 刷机 </tag>
             
-            <tag> 破解 </tag>
+            <tag> 优化 </tag>
             
         </tags>
       
@@ -376,31 +376,6 @@
       <categories>
           
           <category> 经验 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Alist </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Alist网盘搭建</title>
-      <link href="/posts/3a5f88847df1.html"/>
-      <url>/posts/3a5f88847df1.html</url>
-      
-        <content type="html"><![CDATA[<p>之前搭建了alist网盘，顺便出个教程。</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><strong>Alist</strong>是一款非常强大的开源个人网盘管理软件，它的功能非常多。</p><p>可以在这里直接进行上传下载网盘文件、重命名文件等操作。</p><p>Alist不仅可以部署在服务器，Windows和Mac也能运行。</p><p><a href="https://alist.nn.ci/zh/">官方文档</a></p><h2 id="Pass"><a href="#Pass" class="headerlink" title="Pass"></a>Pass</h2><p>这个是我在用的方法，所以放前面讲。</p><p>这里就补充一个<strong>Zeabur</strong>，Heroku Render Koyeb 见<a href="https://alist.nn.ci/zh/guide/install/paas.html"><strong>官方文档</strong></a>。</p><p><strong>Tips：</strong></p><ol><li>Heroku <strong>无法注册</strong>（不知道你们行不行）</li><li>Render 本来是最好的方案，可惜被<strong>封杀</strong>了</li><li>Koyeb 和 fly.io <strong>需要信用卡</strong></li></ol><h3 id="zeabur部署"><a href="#zeabur部署" class="headerlink" title="zeabur部署"></a>zeabur部署</h3><p><strong>Fork</strong>这个仓库 <a href="https://github.com/Weexyy/Alist_zeabur">Weexyy&#x2F;Alist_zeabur (github.com)</a></p><p>新建一个服务，选择刚才Fork的仓库，等待部署完成。</p><p><img src="/posts/3a5f88847df1/image-20231029112455323.jpg" alt="image-20231029112455323"></p><p>下拉找到域名，可生成一个 zeabur.app 的二级域名，或添加一个自己的域名。</p><p><img src="/posts/3a5f88847df1/image-20231029112757625.jpg" alt="image-20231029112757625"></p><p>密码在 <strong>Runtime Logs</strong> 中查看，用户名为 <strong>admin</strong></p><p><img src="/posts/3a5f88847df1/image-20231029113032509.jpg" alt="image-20231029113032509"></p><p><strong>Tips：</strong></p><ol><li>重新部署后，数据会丢失，记得在alist的设置里备份</li><li>可以添加一个数据库，重新部署后就不用来回备份了，但我添加数据库后，就部署失败。</li><li>docker一段时间没人访问就会自动关闭，数据就会丢失，可以D监控里添加自己的网站（免费的） <a href="https://www.dnspod.cn/Products/Monitor">D监控 - 专注网站性能监控 (dnspod.cn)</a></li></ol><h2 id="Window"><a href="#Window" class="headerlink" title="Window"></a>Window</h2><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>下载：<a href="https://github.com/alist-org/alist/releases">Releases · alist-org&#x2F;alist (github.com)</a></p><p>点击<strong>Show all</strong>查看更多</p><p><img src="/posts/3a5f88847df1/image-20231023215627291.jpg" alt="image-20231023215627291"></p><p>选择适合的版本，Windows就选下面这个</p><p><img src="/posts/3a5f88847df1/image-20231023215805139.jpg" alt="image-20231023215805139"></p><p>下载后解压到任意目录</p><h3 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h3><p>在目录的地址栏输入<code>CMD</code></p><p><img src="/posts/3a5f88847df1/image-20231025213726061.jpg" alt="image-20231025213726061"></p><p>在CMD中输入<code>.\alist.exe server</code></p><p><img src="/posts/3a5f88847df1/image-20231025213034907.jpg" alt="image-20231025213034907"></p><p>如图所示。</p><h3 id="访问"><a href="#访问" class="headerlink" title="访问"></a>访问</h3><p>浏览器访问 <strong>127.0.0.1:5244</strong></p><p><img src="/posts/3a5f88847df1/image-20231025213106049.jpg" alt="image-20231025213106049"></p><p>用户名为 <strong>admin</strong></p><p>密码在控制台查看。</p><h2 id="Linux（一键安装脚本）"><a href="#Linux（一键安装脚本）" class="headerlink" title="Linux（一键安装脚本）"></a>Linux（一键安装脚本）</h2><p>仅适用于 Linux amd64&#x2F;arm64 平台。</p><h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s install</span><br></pre></td></tr></table></figure><h4 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s update</span><br></pre></td></tr></table></figure><h4 id="卸载"><a href="#卸载" class="headerlink" title="卸载"></a>卸载</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL &quot;https://alist.nn.ci/v3.sh&quot; | bash -s uninstall</span><br></pre></td></tr></table></figure><h4 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h4><p>启动：<code>systemctl start alist</code></p><p>关闭：<code>systemctl stop alist</code></p><p>状态：<code>systemctl status alist</code></p><p>重启：<code>systemctl restart alist</code></p><p>获取密码：</p><ul><li>随机生成：<code>./alist admin random</code></li><li>手动设置：<code>./alist admin set 123456</code></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网站搭建 </category>
           
       </categories>
       
