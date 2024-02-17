@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>米系手机解锁/回锁</title>
+      <link href="/posts/8fb53a01a9ee.html"/>
+      <url>/posts/8fb53a01a9ee.html</url>
+      
+        <content type="html"><![CDATA[<p>本教程适用于所有<strong>非澎湃OS</strong>的<strong>小米红米手机</strong>。</p><p>所有操作均<strong>需电脑完成</strong>。</p><p>昨天看小绿书上居然还有人问怎么重新上BL锁，这篇教程可以给小白们参考（刷鸡大佬别喷哈）</p><h2 id="解锁"><a href="#解锁" class="headerlink" title="解锁"></a>解锁</h2><p><strong>澎湃系统别看了，官方限制了，只能去社区申请解锁。</strong></p><ul><li>访问<a href="https://www.miui.com/unlock/index.html">https://www.miui.com/unlock/index.html</a><strong>下载官方解锁工具</strong>。</li><li>下载解压后，双击miflash_unlock.exe打开解锁工具</li><li>弹出来的窗口点同意，然后登陆你的小米帐号</li><li>进入工具后，先点击右上角的设置<strong>检测驱动并安装</strong>，不然无法识别到手机</li><li>打开手机，依次点击-设置-我的设备-全部参数-连续点击5次MIUI版本，打开开发者选项</li><li>出现你现在处于开发者模式后，打开设置-更多设置-开发者选项-设备解锁状态-点击绑定设备。点击后会提示绑定成功 。</li><li>手机用<strong>原装数据线</strong>连接电脑，然后关机，在<strong>同时按住</strong>开机键和音量下，进入<strong>fastboot模式</strong>。（新版已经没有小兔子了，只有几个字母）</li><li>回到解锁工具，点击解锁，等待解锁成功</li></ul><p>解锁后会清空所有数据，记得提前备份</p><h2 id="回锁"><a href="#回锁" class="headerlink" title="回锁"></a>回锁</h2><p>回锁没有官方工具，<strong>使用命令</strong>即可。</p><ul><li><p>打开<strong>解锁工具根目录</strong></p></li><li><p>在地址栏输入cmd，然后回车</p><p><img src="/posts/8fb53a01a9ee/image-20240217172053512.jpg" alt="image-20240217172053512"></p></li><li><p>手机<strong>进fastboot</strong>连接电脑</p></li><li><p>在弹出来的命令提示符中输入<code>fastboot oem luck</code>等待回锁</p></li></ul><p>和解锁一样，也会清数据</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 刷机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 刷机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>手机串流玩PC原神</title>
       <link href="/posts/eece854966e8.html"/>
       <url>/posts/eece854966e8.html</url>
