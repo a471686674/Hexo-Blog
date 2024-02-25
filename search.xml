@@ -4,6 +4,58 @@
   
     
     <entry>
+      <title>随机图片API（更新）</title>
+      <link href="/posts/7f453e7451ed.html"/>
+      <url>/posts/7f453e7451ed.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><strong>新增50张图片</strong>（<a href="/posts/55e01456b4f3.html">查看原文</a>）</li></ul><h2 id="API"><a href="#API" class="headerlink" title="API"></a>API</h2><p><a href="https://pic.api.weexy.cn/">https://pic.api.weexy.cn</a></p><p><del>图片全部来源于网络，侵权删。</del></p><p><del>为节省资源，加快访问速度，图片均压缩为WEBP格式，介意勿用。</del></p><h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><p>（刷新页面可刷新图片）</p><p><img src="https://pic.api.weexy.cn/all/api.php?20240225c" alt="api"></p><h2 id="调用方法"><a href="#调用方法" class="headerlink" title="调用方法"></a>调用方法</h2><p>当成一张正常的图片用就行了。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;https://pic.api.weexy.cn/all/api.php&quot;</span>&gt;</span></span><br></pre></td></tr></table></figure><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">api</span>](<span class="link">https://pic.api.weexy.cn/all/api.php</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> API </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>lsp框架安装教程（供小白参考，大佬勿喷）</title>
+      <link href="/posts/5672f426057f.html"/>
+      <url>/posts/5672f426057f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="打开Magisk-–-设置-–-开启-Zygisk"><a href="#打开Magisk-–-设置-–-开启-Zygisk" class="headerlink" title="打开Magisk – 设置 – 开启 Zygisk"></a>打开Magisk – 设置 – 开启 Zygisk</h2><p><img src="/posts/5672f426057f/IMG_20240221_190809.jpg" alt="IMG_20240221_190809"></p><h2 id="下载LSPosed模块"><a href="#下载LSPosed模块" class="headerlink" title="下载LSPosed模块"></a>下载LSPosed模块</h2><p><a href="https://github.com/LSPosed/LSPosed/releases">Github</a>（可能要加速器才能访问，可以从下面蓝奏云下载）</p><p><a href="https://weexy.lanzn.com/ipFvz1oxztyh">蓝奏云</a></p><p>注意：要下Zygisk版</p><p><img src="/posts/5672f426057f/image-20240221191328139.png" alt="image-20240221191328139"></p><h2 id="打开面具-–-模块-–-从本地安装"><a href="#打开面具-–-模块-–-从本地安装" class="headerlink" title="打开面具 – 模块 – 从本地安装"></a>打开面具 – 模块 – 从本地安装</h2><h2 id="重启设备"><a href="#重启设备" class="headerlink" title="重启设备"></a>重启设备</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 刷机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 刷机 </tag>
+            
+            <tag> LSPosed </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>米系手机解锁/回锁</title>
       <link href="/posts/8fb53a01a9ee.html"/>
       <url>/posts/8fb53a01a9ee.html</url>
