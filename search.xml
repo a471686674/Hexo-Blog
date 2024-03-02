@@ -4,7 +4,32 @@
   
     
     <entry>
-      <title>随机图片API（更新）</title>
+      <title>博客迁移公告</title>
+      <link href="/posts/853078b67e77.html"/>
+      <url>/posts/853078b67e77.html</url>
+      
+        <content type="html"><![CDATA[<p>如题，由于种种不便，博客由Hexo迁移至Wordpress， </p><p>现已完成博客的配置，文章正逐步复制过来。 </p><p>为便于访问，域名有原来的blog.weexy.cn换成了weexy.cn，</p><p> 原博客（blog.weexy.cn）仍保存，但看情况更新（若本地数据丢失也有可能停更），</p><p> 个人主页（原weexy.cn）将删除。 </p><p>若给您带来不便，请谅解，谢谢。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 公告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>随机图片API（新增50张图片）</title>
       <link href="/posts/7f453e7451ed.html"/>
       <url>/posts/7f453e7451ed.html</url>
       
